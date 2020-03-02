@@ -24,7 +24,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : black ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`CODE AR12`,"https://www.twitch.tv/abdallah_reda")
+client.user.setGame(`SG`,"https://www.twitch.tv/abdallah_reda")
 client.user.setStatus("dnd")
 });
 
